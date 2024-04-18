@@ -32,6 +32,7 @@ for mth in dir(str):
 print('-'*30)
 
 #Вызов метода у объекта
+
 str = str.upper()
 print(str)
 #
